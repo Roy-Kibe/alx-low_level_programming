@@ -9,17 +9,21 @@
 int main(void)
 {
 	int i;
-	for (i = 0; i < 10; i++ )
+
+	for (i = 0; i < 10; i++)
+
 	{
 		putchar ('0' + i);
 	}
 
 	char c;
+
 	for (c = 'a'; c <= 'f'; c++)
+
 	{
 		putchar (c);
 	}
 
-	putchar ('n');
+	putchar ('\n');
 	return (0);
 }
