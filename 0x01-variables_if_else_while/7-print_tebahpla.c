@@ -2,11 +2,10 @@
 
 
 /**
-  *main - print the reverse alphabets
-  *
-  * return 0 always a success
-  */
-
+ * main - Prints reversed alphabet.
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 
